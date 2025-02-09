@@ -31,13 +31,6 @@ Harmonia es una herramienta educativa y entretenida que simula un ecosistema din
 
 ---
 
-## Capturas de Pantalla
-
-![Captura de Harmonia](images/screenshot.png)  
-*Interfaz gráfica de Harmonia mostrando la evolución de las poblaciones.*
-
----
-
 ## Instalación
 
 Sigue estos pasos para ejecutar Harmonia en tu máquina:
