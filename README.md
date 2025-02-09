@@ -27,11 +27,19 @@ Harmonia es una herramienta educativa y entretenida que simula un ecosistema din
    - Ve a la sección [Releases](https://github.com/kembal-ito/harmonia/releases) de este repositorio.
    - Descarga el archivo `Harmonia-0.1_BETA.exe`.
 
-2. **Ejecutar la Simulación**:
+2. **Permitir la Descarga**:
+   - Al descargar el archivo, es posible que tu navegador (como Edge, Chrome, etc.) muestre una advertencia indicando que el archivo "podría ser malicioso". Esto es normal, ya que el archivo es un ejecutable nuevo y no está ampliamente distribuido.
+   - Para descargar el archivo, haz clic en **"Conservar"** o **"Mantener"** en las opciones de descarga de tu navegador.
+
+3. **Verificación de Seguridad**:
+   - Si deseas verificar la seguridad del archivo, puedes usar herramientas como [VirusTotal](https://www.virustotal.com/).
+   - Al subir el archivo a VirusTotal, es posible que algunos antivirus (generalmente 3 o menos) marquen el archivo como "potencialmente malicioso". Esto es común para ejecutables nuevos y no distribuidos masivamente, y no debería ser motivo de preocupación si la mayoría de los antivirus lo consideran seguro.
+
+4. **Ejecutar la Simulación**:
    - Una vez descargado, haz doble clic en `Harmonia-0.1_BETA.exe` para iniciar la simulación.
    - Observa cómo las poblaciones cambian con el tiempo.
 
-3. **Controles de la Simulación**:
+5. **Controles de la Simulación**:
    - **Avanzar Años**: Usa el botón **"Siguiente Año"** para avanzar la simulación año por año.
    - **Pausar/Reanudar**: Pausa y reanuda la simulación en cualquier momento.
    - **Reiniciar**: Reinicia la simulación para comenzar de nuevo con valores predeterminados.
@@ -46,7 +54,6 @@ Harmonia es una herramienta educativa y entretenida que simula un ecosistema din
 - **Espacio en Disco**: 30 MB disponibles.
 
 ---
-
 
 ## Contacto
 
