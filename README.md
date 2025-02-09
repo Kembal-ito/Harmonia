@@ -25,7 +25,7 @@ Harmonia es una herramienta educativa y entretenida que simula un ecosistema din
 
 1. **Descargar la Aplicación**:
    - Ve a la sección [Releases](https://github.com/kembal-ito/harmonia/releases) de este repositorio.
-   - Descarga el archivo `Harmonia-0.1_BETA.exe`.
+   - Descarga el archivo `Harmonia-0.2_BETA.exe`.
 
 2. **Permitir la Descarga**:
    - Al descargar el archivo, es posible que tu navegador (como Edge, Chrome, etc.) muestre una advertencia indicando que el archivo "podría ser malicioso". Esto es normal, ya que el archivo es un ejecutable nuevo y no está ampliamente distribuido.
