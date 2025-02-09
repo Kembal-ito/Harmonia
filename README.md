@@ -23,18 +23,40 @@ Harmonia es una herramienta educativa y entretenida que simula un ecosistema din
 
 ## Cómo Usar Harmonia
 
-1. **Ejecutar la Simulación**: Inicia la simulación y observa cómo las poblaciones cambian con el tiempo.
-2. **Avanzar Años**: Usa el botón **"Siguiente Año"** para avanzar la simulación año por año.
-3. **Pausar/Reanudar**: Pausa y reanuda la simulación en cualquier momento.
-4. **Reiniciar**: Reinicia la simulación para comenzar de nuevo con valores predeterminados.
-5. **Configurar Intervalo**: Ajusta el intervalo de tiempo entre cada paso de la simulación.
+1. **Descargar la Aplicación**:
+   - Ve a la sección [Releases](https://github.com/kembal-ito/harmonia/releases) de este repositorio.
+   - Descarga el archivo `Harmonia-0.1_BETA.exe`.
+
+2. **Ejecutar la Simulación**:
+   - Una vez descargado, haz doble clic en `Harmonia-0.1_BETA.exe` para iniciar la simulación.
+   - Observa cómo las poblaciones cambian con el tiempo.
+
+3. **Controles de la Simulación**:
+   - **Avanzar Años**: Usa el botón **"Siguiente Año"** para avanzar la simulación año por año.
+   - **Pausar/Reanudar**: Pausa y reanuda la simulación en cualquier momento.
+   - **Reiniciar**: Reinicia la simulación para comenzar de nuevo con valores predeterminados.
+   - **Configurar Intervalo**: Ajusta el intervalo de tiempo entre cada paso de la simulación.
 
 ---
 
-## Instalación
+## Requisitos del Sistema
 
-Sigue estos pasos para ejecutar Harmonia en tu máquina:
+- **Sistema Operativo**: Windows 10 o superior.
+- **Memoria RAM**: Mínimo 2 GB.
+- **Espacio en Disco**: 30 MB disponibles.
 
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/harmonia.git
+---
+
+
+## Contacto
+
+Si tienes preguntas o sugerencias, no dudes en contactarme:
+
+- **Discord**: [Kembalito](https://discord.com/users/1298400567084716155/)
+- **Correo**: [kembalito@gmail.com](mailto:kembalito@gmail.com)
+- **GitHub**: [@Kembal-ito](https://github.com/Kembal-ito/)
+
+---
+
+Creado con ❤️ por [Kembalito](https://github.com/Kembal-ito/).  
+¡Gracias por usar Harmonia! 🌍
